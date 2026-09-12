@@ -161,7 +161,7 @@ export default function TransferScreen({ navigate }: Props) {
                   Checking (•••4501)
                 </p>
                 <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[#94a3b8] text-[13px] whitespace-nowrap">
-                  Available: $16,000,000.00
+                  Available: $20,003,105.00
                 </p>
               </div>
             </div>
