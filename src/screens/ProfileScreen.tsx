@@ -86,7 +86,7 @@ export default function ProfileScreen({ navigate }: Props) {
               </div>
               <div aria-hidden className="absolute border-2 border-[#8b1a2b] border-solid inset-0 rounded-[40px]" />
             </div>
-            <p className="font-['Young_Serif:Regular',sans-serif] leading-[normal] not-italic relative shrink-0 text-[22px] text-white">Leland Lee Tilson</p>
+            <p className="font-['Young_Serif:Regular',sans-serif] leading-[normal] not-italic relative shrink-0 text-[22px] text-white">Felix Albert Rinfret</p>
             <div className="bg-[rgba(139,26,43,0.08)] content-stretch flex items-start px-[10px] py-[4px] relative rounded-[999px] shrink-0">
               <div aria-hidden className="absolute border border-[rgba(139,26,43,0.2)] border-solid inset-0 pointer-events-none rounded-[999px]" />
               <p className="font-['Geist:Bold',sans-serif] font-bold leading-[normal] relative shrink-0 text-[#8b1a2b] text-[12px] uppercase">Premium Member</p>
@@ -133,7 +133,7 @@ export default function ProfileScreen({ navigate }: Props) {
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
               <InfoRow label="DOB" value="05/14/1984" />
               <InfoRow label="Phone" value="•••-•••-4523" />
-              <InfoRow label="Email" value="LLT7200@GMAIL.COM" />
+              <InfoRow label="Email" value="Timcook5925692@gmail.com" />
             </div>
           </div>
 
@@ -150,9 +150,9 @@ export default function ProfileScreen({ navigate }: Props) {
             </div>
             <div className="h-px relative shrink-0 w-full bg-[rgba(255,255,255,0.12)]" />
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
-              <InfoRow label="Street" value="482 Brown Farm Rd" />
-<InfoRow label="City/State" value="Seneca" />
-<InfoRow label="Country" value="USA" />
+              <InfoRow label="Street" value="Oak St., Apt. 407" />
+<InfoRow label="City/State" value="Toronto" />
+<InfoRow label="Country" value="Ontario Canada" />
             </div>
           </div>
 
