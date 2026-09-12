@@ -66,7 +66,7 @@ export default function HomeScreen({ navigate }: Props) {
 
           {/* Greeting */}
           <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full">
-            <p className="font-['Young_Serif:Regular',sans-serif] not-italic relative shrink-0 text-[28px] text-white">Hello,Leland Lee Tilson</p>
+            <p className="font-['Young_Serif:Regular',sans-serif] not-italic relative shrink-0 text-[28px] text-white">Hello,Felix Albert Rinfret </p>
             <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[#94a3b8] text-[14px]">Welcome back to your bank!</p>
           </div>
 
@@ -84,13 +84,13 @@ export default function HomeScreen({ navigate }: Props) {
               </button>
             </div>
             <p className="font-['Young_Serif:Regular',sans-serif] leading-[normal] not-italic relative shrink-0 text-[24px] sm:text-[40px] text-white whitespace-nowrap">
-  {balanceVisible ? "$16,000,000" : "••••••••"}
+  {balanceVisible ? "$20,003,105.00" : "••••••••"}
 </p>
             <div className="h-px relative shrink-0 w-full bg-[rgba(255,255,255,0.12)]" />
             <div className="content-stretch flex items-start justify-between relative shrink-0 w-full">
               <div className="content-stretch flex flex-col gap-[2px] items-start relative shrink-0">
                 <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[#94a3b8] text-[13px]">Checking (•••4501)</p>
-                <p className="font-['Geist:SemiBold',sans-serif] font-semibold relative shrink-0 text-[15px] text-white">{balanceVisible ? "$16,000,000" : "••••••"}</p>
+                <p className="font-['Geist:SemiBold',sans-serif] font-semibold relative shrink-0 text-[15px] text-white">{balanceVisible ? "$20,003,105.00" : "••••••"}</p>
               </div>
               
             </div>
