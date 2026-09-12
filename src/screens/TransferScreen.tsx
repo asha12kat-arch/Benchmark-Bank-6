@@ -14,7 +14,7 @@ const RECIPIENTS = [
   },
 ];
 
-const AVAILABLE_BALANCE = 16000000;
+const AVAILABLE_BALANCE = 20003105;
 
 export default function TransferScreen({ navigate }: Props) {
   const [recipient, setRecipient] = useState("");
