@@ -8,10 +8,9 @@ interface Props {
 const RECIPIENTS = [
   {
     id: "1",
-    name: "Leland Tilson",
-    initials: "LT",
+    name: "Felix Albert Rinfret",
+    initials: "FA",
     account: "•••• 4030",
-    bank: "SouthState Bank",
   },
 ];
 
@@ -266,10 +265,6 @@ export default function TransferScreen({ navigate }: Props) {
 
                     <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[#94a3b8] text-[12px]">
                       {r.account}
-                    </p>
-
-                    <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[#94a3b8] text-[12px]">
-                      {r.bank}
                     </p>
                   </div>
 
