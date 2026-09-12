@@ -61,7 +61,7 @@ export default function CardsScreen({ navigate }: Props) {
                   </p>
 
                   <p className="font-['Geist:SemiBold',sans-serif] font-semibold leading-[normal] relative shrink-0 text-[13px] text-white">
-                    Leland Lee Tilson
+                    FELIX ALBERT RINFRET
                   </p>
                 </div>
 
@@ -188,7 +188,7 @@ export default function CardsScreen({ navigate }: Props) {
               { label: "Card Type", value: "Visa Debit" },
               { label: "Card Number", value: "•••• •••• •••• 7834" },
               { label: "Expiry Date", value: "09/28" },
-              { label: "Billing Address", value: "482 Brown Farm Seneca" },
+              { label: "Billing Address", value: "1 Oak St., Apt. 407, Toronto" },
               { label: "Daily Limit", value: "$5,000.00" },
               { label: "Monthly Spend", value: "$1,234.56" },
             ].map(({ label, value }) => (
