@@ -166,7 +166,7 @@ export default function HomeScreen({ navigate }: Props) {
               <div className="content-stretch flex items-start justify-between relative shrink-0 w-full">
                 <div className="content-stretch flex flex-col gap-[2px] items-start relative shrink-0">
                   <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[9px] text-[rgba(255,255,255,0.5)] uppercase">Cardholder</p>
-                  <p className="font-['Geist:SemiBold',sans-serif] font-semibold relative shrink-0 text-[13px] text-white">Leland Lee Tilson</p>
+                  <p className="font-['Geist:SemiBold',sans-serif] font-semibold relative shrink-0 text-[13px] text-white">Felix Albert Rinfret</p>
                 </div>
                 <div className="content-stretch flex flex-col gap-[2px] items-end relative shrink-0">
                   <p className="font-['Geist:Regular',sans-serif] font-normal relative shrink-0 text-[9px] text-[rgba(255,255,255,0.5)] uppercase">Expires</p>
