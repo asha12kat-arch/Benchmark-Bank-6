@@ -106,7 +106,7 @@ export default function ProfileScreen({ navigate }: Props) {
             </div>
             <div className="h-px relative shrink-0 w-full bg-[rgba(255,255,255,0.12)]" />
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
-              <InfoRow label="Account Holders" value="Leland Lee Tilson" />
+              <InfoRow label="Account Holders" value="Felix Albert Rinfret" />
               <InfoRow label="Account Type" value="Premium Checking" />
               <InfoRow label="Customer ID" value="BM-7829451" />
               <div className="content-stretch flex items-center justify-between relative shrink-0 w-full">
