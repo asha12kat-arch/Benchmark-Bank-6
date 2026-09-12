@@ -3,9 +3,9 @@ interface Props {
 }
 
 const TRANSACTIONS = [
-  { id: "1", merchant: "Facebook Headquarters", category: "Deposit", date: "2026", amount: 16000000, icon: "F" },
+  { id: "1", merchant: "Tim Cook", category: "Deposit", date: "2026", amount:$20,003,105.00, icon: "F" },
   { id: "2", merchant: "Opening Balance", category: "Deposit", date: "2026", amount: 13, icon: "O" },
-  { id: "3", merchant: "Leland Tilson", category: "Transfer Pending", date: "Sep. 10, 2026", amount: -40000, icon: "L" },
+  { id: "3", merchant: "Albert Joseph Rinfret", category: "Transfer Pending", date: "Sep. 10, 2026", amount: -40000, icon: "L" },
 ];
 
 export default function HistoryScreen({ navigate }: Props) {
